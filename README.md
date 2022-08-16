@@ -20,9 +20,9 @@ $ cd book-badminton-court-js
 $ npm install
 ```
 
-3\. Make a copy of file .env.example and rename .env
+3\. Make a copy of file `.env.example` and rename `.env`
 
-4\. Edit values inside .env file
+4\. Edit values inside `.env` file
 
 5\. Run the script
 
