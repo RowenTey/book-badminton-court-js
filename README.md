@@ -35,5 +35,3 @@ $ npm start
 
 - [@limivann](https://github.com/limivann)
 - [@woonyee28](https://github.com/woonyee28)
-
-production - test
