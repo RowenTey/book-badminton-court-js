@@ -14,5 +14,8 @@
   "dependencies": {
     "chromedriver": "^104.0.0",
     "selenium-webdriver": "^4.4.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
   }
 }
