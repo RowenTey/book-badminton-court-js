@@ -1,7 +1,6 @@
 import webdriver from "selenium-webdriver";
 import { By } from "selenium-webdriver";
 import fs from "fs";
-import dotenv from "dotenv";
 import chromedriver from "chromedriver";
 
 async function bookCourt() {
@@ -71,5 +70,4 @@ async function bookCourt() {
 	}
 }
 
-dotenv.config();
 bookCourt();
