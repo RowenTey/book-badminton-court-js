@@ -32,12 +32,10 @@ async function bookCourt() {
 		await driver.findElement(By.xpath("//input[@value='1BB26']")).click();
 		await driver.sleep(1);
 
-		/* 
-      select badminton slot
-      format -> 1BB2BB<courtnumber><date><session> 
-    */
+		// select badminton slot
+		// format -> 1BB2BB<courtnumber><date><session>
+
 		const court_number = "01";
-		// const date = new Date(new Date().setDate(new Date().getDate() + 7));
 		const date = "23-Aug-2022";
 		const session = "2";
 		const xpath = `//input[@value='1BB2BB${court_number}${date}${session}']`;
