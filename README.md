@@ -22,9 +22,9 @@ $ npm install
 
 3\. Make a copy of file `.env.example` and rename `.env`
 
-4\. Edit values inside `.env` file
+4\. Edit values inside `.env` and `index.js` file
 
-5\. Run the script
+5\. Run the script at `00:00am`
 
 ```terminal
 $ npm start
