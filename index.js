@@ -34,7 +34,7 @@ async function bookCourt() {
 
 		/* 
       select badminton slot
-      format -> 1BB2BB<courtnumber><date><session>
+      format -> 1BB2BB<courtnumber><date><session> 
     */
 		const court_number = "01";
 		// const date = new Date(new Date().setDate(new Date().getDate() + 7));
