@@ -39,6 +39,7 @@ async function bookCourt() {
 		const xpath = `//input[@value='1BB2BB${court_number}${date}${session}']`;
 
 		await driver.findElement(By.xpath(xpath.toString())).click();
+		await driver.sleep(2);
 
 		// select confirm
 		await driver.findElement(By.xpath("//input[@value='Confirm']")).click();
