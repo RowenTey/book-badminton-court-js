@@ -29,3 +29,7 @@ $ npm install
 ```terminal
 $ npm start
 ```
+
+## 🥂 Acknowledgements 
+- [@limivann](https://github.com/limivann)
+- [@woonyee28](https://github.com/woonyee28)
