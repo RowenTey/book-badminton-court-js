@@ -29,7 +29,6 @@ async function bookCourt() {
 
 		// select badminton radio
 		await driver.findElement(By.xpath("//input[@value='1BB26']")).click();
-		await driver.sleep(2);
 
 		// select badminton slot
 		// format -> 1BB2BB<courtnumber><date><session>
