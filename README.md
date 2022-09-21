@@ -3,7 +3,7 @@
 ## 🛠 Getting Started
 To check out this project, clone this repo and make sure you have the following prerequisites.
 
-- [Node](https://nodejs.org/en/download/) >= v16.3.0
+- [node](https://nodejs.org/en/download/) >= v16.3.0
 - [npm](https://nodejs.org/en/download/package-manager/)
 
 > From your command line go to the repo's folder and run the following scripts in the terminal.
@@ -30,7 +30,7 @@ copy .env.example .env
 5\. Run the script at `00:00am`
 
 ```terminal
-$ npm start
+npm start
 ```
 
 ## 🥂 Acknowledgements 
